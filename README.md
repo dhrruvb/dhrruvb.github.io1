@@ -1,7 +1,8 @@
 # m22p1-Dhruv
+
 Github repository for trimester 3 of AP-CSA
 
-All links to review tickets:
+**All links to review tickets:**
 
 Week 1: https://github.com/dhrruvb/dhrruvb.github.io/issues/1
 
