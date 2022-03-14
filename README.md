@@ -44,6 +44,21 @@ Tech Talk 1:
   Tech Talk 10: 
   - Overarching concept/notes:
   - Questions: 
+  
+Problem Solutions:
+Week 1:
+- Problem 1:
+- Problem 2:
+- Problem 3:
+Week 2:
+Week 3:
+Week 4:
+Week 5:
+Week 6:
+Week 7:
+Week 8:
+Week 9:
+Week 10:
 
 Ap Test prep plan:
   - Review One unit per week, this will give ample time to review all content.
