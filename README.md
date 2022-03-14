@@ -45,8 +45,23 @@ Tech Talk 1:
   - Overarching concept/notes:
   - Questions: 
   
-Problem Solutions:
-Week 1:
+**Problem Solutions:
+**Week 1:
+- probelm 1:
+```java
+class Main {
+  public static void main(String[] args) {
+    System.out.println("|option 1|");
+        System.out.println("|option 2|");
+    System.out.println("|option 3|");
+    System.out.println("|option 4|");
+    System.out.println("|option 5|");
+    System.out.println("|option 6|");
+    System.out.println("|option 7|");
+  }
+}
+```
+- problem 2:
 ```java 
 import java.util.Arrays;
 import java.util.function.Consumer;
@@ -81,6 +96,30 @@ public class Main {
   public static void printMatrix(int[][] matrix, Consumer<int[]> rowPrinter) {
     Arrays.stream(matrix).forEach((row) -> rowPrinter.accept(row));
   }
+}
+```
+- Problem 3:
+```java
+public class Main {
+
+    public static void main(String[] args) {
+
+        float first = 1.20f, second = 2.45f;
+
+        System.out.println("Before");
+        System.out.println("First number = " + first);
+        System.out.println("Second number = " + second);
+
+        float temporary = first;
+
+        first = second;
+
+        second = temporary;
+
+        System.out.println("After");
+        System.out.println("First number = " + first);
+        System.out.println("Second number = " + second);
+    }
 }
 ```
 
