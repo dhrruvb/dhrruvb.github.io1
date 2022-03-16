@@ -1,4 +1,4 @@
-|[Home](..)| [Review Tickets](../reviewtickets)|[Tech Talk Notes](.)|[Test Prep Plan](../testprepplan)|
+|[Home](.)| [Review Tickets](../reviewtickets) | [Tech Talk ](.)| [Problem solutions ](../problemsolutions)| [Test Prep plan ](../testprepplan)|
 
 # Tech Talk notes
 * Tech Talk 1:

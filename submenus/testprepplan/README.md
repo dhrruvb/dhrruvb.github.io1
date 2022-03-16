@@ -1,4 +1,4 @@
-|[Home](..)| [Review Tickets](../reviewtickets)|[Tech Talk Notes](../techtalknotes)|[Test Prep Plan](.)|
+|[Home](.)| [Review Tickets](../reviewtickets) | [Tech Talk ](../techtalknotes)| [Problem solutions ](../problemsolutions)| [Test Prep plan ](.)|
 # Test prep plan:
 Ap Test prep plan:
 
