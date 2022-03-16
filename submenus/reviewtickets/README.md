@@ -1,4 +1,4 @@
-fici|[Home](.)| [Review Tickets](.) | [Tech Talk ](../techtalknotes)| [Problem solutions ](../problemsolutions)| [Test Prep plan ](../testprepplan)|
+|[Home](.)| [Review Tickets](.) | [Tech Talk ](../techtalknotes)| [Problem solutions ](../problemsolutions)| [Test Prep plan ](../testprepplan)|
 # Review Ticket Links
 All links to review tickets:
 
