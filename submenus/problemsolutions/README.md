@@ -1,6 +1,6 @@
 |[Home](.)| [Review Tickets](../reviewtickets) | [Tech Talk ](../techtalknotes)| [Problem solutions ](.)| [Test Prep plan ](../testprepplan)|
 # Problem Solutions
-Week 1:
+Week 0:
 - Problem 1
 - https://replit.com/@DhruvBhatnagar/TT-week-1-problem-1-1#Main.java
 
