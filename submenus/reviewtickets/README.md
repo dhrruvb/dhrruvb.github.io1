@@ -2,7 +2,10 @@
 # Review Ticket Links
 All links to review tickets:
 
-- Week 1: https://github.com/dhrruvb/dhrruvb.github.io/issues/1
+- Week 0: https://github.com/dhrruvb/dhrruvb.github.io/issues/1
+
+
+- Week 1:
 
 
 - Week 2:
@@ -33,7 +36,4 @@ All links to review tickets:
 
 
 - Week 11:
-
-
-- Week 12:
 
