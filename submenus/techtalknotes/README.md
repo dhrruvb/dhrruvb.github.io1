@@ -14,15 +14,19 @@ There are many algorithms for different purposes and they interact with differen
 **- Tech Talk 1:**
 
 - **Overarching concept/notes**: 
-- Linked list are a way of keeping and managing a list of Objects
-- ABCD have Data and Next pointer
-- E is illustrative of inserting a new Object
-- tmp illustrates accessing the Data from the D Object
-- Queues can be built using Linked List Objects
-- A Queue requires keeping track of First In for dequeue extraction (head node)
-- A Queue requires keeping track of the Back for enqueue entry (tail node)
-- A Queue requires keeping track of the Current node for iteration (current node)
-
+- **Linked List:**
+  - Linked list are a way of keeping and managing a list of Objects
+  - ABCD have Data and Next pointer
+  - E is illustrative of inserting a new Object
+  - tmp illustrates accessing the Data from the D Object
+**- Queues**:
+    - Queues can be built using Linked List Objects
+    - A Queue requires keeping track of First In for dequeue extraction (head node)
+    - A Queue requires keeping track of the Back for enqueue entry (tail node)
+    - A Queue requires keeping track of the Current node for iteration (current node)
+    
+ - ** java generic t:**
+  - A generic type is a generic class or interface that is parameterized over types.” Essentially, generic types allow you to write a general, generic class (or method) that works with different types, allowing for code re-use
 
 - **Questions**: No questions this week
 
