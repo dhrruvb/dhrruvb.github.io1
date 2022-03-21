@@ -19,16 +19,59 @@ There are many algorithms for different purposes and they interact with differen
   - ABCD have Data and Next pointer
   - E is illustrative of inserting a new Object
   - tmp illustrates accessing the Data from the D Object
+  - code example:
+```java
+class LinkedList {
+    Node head; // head of list
+ 
+    /* Linked list Node*/
+    class Node {
+        int data;
+        Node next;
+ 
+        // Constructor to create a new node
+        // Next is by default initialized
+        // as null
+        Node(int d) { data = d; }
+    }
+}
+```
+
+
 **- Queues**:
-    - Queues can be built using Linked List Objects
-    - A Queue requires keeping track of First In for dequeue extraction (head node)
-    - A Queue requires keeping track of the Back for enqueue entry (tail node)
-    - A Queue requires keeping track of the Current node for iteration (current node)
+   
+- Queues can be built using Linked List Objects
+
+- A Queue requires keeping track of First In for dequeue extraction (head node)
+
+- A Queue requires keeping track of the Back for enqueue entry (tail node)
+ 
+- A Queue requires keeping track of the Current node for iteration (current node)
+- code:
+```java
+ Queue<Integer> numbers = new LinkedList<>();
+
+    // enqueue
+    // insert element at the rear of the queue
+    numbers.offer(1);
+    numbers.offer(2);
+    numbers.offer(3);
+    System.out.println("Queue: " + numbers);
+
+```
+
     
  - ** java generic t:**
-  - A generic type is a generic class or interface that is parameterized over types.” Essentially, generic types allow you to write a general, generic class (or method) that works with different types, allowing for code re-use
-
-- **Questions**: No questions this week
+ - A generic type is a generic class or interface that is parameterized over types.” Essentially, generic types allow you to write a general, generic class (or method) that works with different types, allowing for code re-use
+ - code:
+```java
+public static <T, G> List<G> fromArrayToList(T[] a, Function<T, G> mapperFunction) {
+    return Arrays.stream(a)
+      .map(mapperFunction)
+      .collect(Collectors.toList());
+}
+```
+ - **Questions**: No questions this week
 
 
 **- Tech Talk 2:**
