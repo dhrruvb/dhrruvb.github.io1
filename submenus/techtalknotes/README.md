@@ -57,8 +57,7 @@ class LinkedList {
     numbers.offer(2);
     numbers.offer(3);
     System.out.println("Queue: " + numbers);
-
-```
+```    
 
     
  - ** java generic t:**
