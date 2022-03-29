@@ -19,3 +19,8 @@ Week 1:
 - https://replit.com/@DhruvBhatnagar/tt-week-2-problem-2#Main.java
 - problem 3:
 - https://replit.com/@DhruvBhatnagar/tt-week-2-problem-3#Main.java 
+
+Week 2: 
+- Calulator:
+- https://replit.com/@DhruvBhatnagar/Calculator
+- 

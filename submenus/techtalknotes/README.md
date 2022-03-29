@@ -75,10 +75,35 @@ public static <T, G> List<G> fromArrayToList(T[] a, Function<T, G> mapperFunctio
 
 **- Tech Talk 2:**
 
-- **Overarching concept/notes**:
+- **Overarching concept/notes**: 
+- Calculator Theory
+  In mathematics, an expression or mathematical expression is a finite combination of symbols that is well-formed according to rules that depend on the context.
+  In computers, expression can be hard to calculate with precedence rules. 
+- In computer math we often convert strings into Reverse Polish Notation (RPN, 3 + 4 becomes 3 4 +) using the Shunting-yard algorithm. Review Wikipedia diagram and the code and you will see the need for a Stack.
+- How to define operator:
+```java
+ // Helper definition for supported operators
+    private final Map<String, Integer> OPERATORS = new HashMap<>();
+    {
+        // Map<"token", precedence>
+        OPERATORS.put("*", 3);
+        OPERATORS.put("/", 3);
+        OPERATORS.put("%", 3);
+        OPERATORS.put("+", 4);
+        OPERATORS.put("-", 4);
+    }
+```
+- Sample output:
+```java
+Simple Math
+Original expression: 100 + 200  * 3
+Tokenized expression: [100, +, 200, *, 3]
+Reverse Polish Notation: [100, 200, 3, *, +]
+Final result: 700.00
 
+```
 
-- **Questions**:
+- **Questions**: Can we use sqrt function from java? Or do we need to come up with something else. 
 
 
 **- Tech Talk 3:**
