@@ -71,8 +71,7 @@ public static <T, G> List<G> fromArrayToList(T[] a, Function<T, G> mapperFunctio
 }
 ```
  - **Questions**: No questions this week
-
-
+ 
 **- Tech Talk 2:**
 
 - **Overarching concept/notes**: 
@@ -106,12 +105,18 @@ Final result: 700.00
 - **Questions**: Can we use sqrt function from java? Or do we need to come up with something else. 
 
 
-**- Tech Talk 3:**
+**- Tech Talk 3:** 
+
 
 - **Overarching concept/notes**:
+- Selection Sort 
+  Selection sort is a linear sort algorithm as it moves from index [0] to [n-1]. In an inner loop it in a second linear loop that compares two elements (like seen in the visual below) and notes which is smallest, after cycling to the end it swaps the smallest number to the lowest in the round.
+- Insertion sort is another linear algorithm that sorts elements from index [0] to index [n-1]. In the inner loop of this algorithm, it find the gap, insertion point for the next item and inserts it. Each inner loop leave the list partially sorted according to outer loops index.
+- Merge Sort: This algorithm uses a divide and conquer algorithm, versus linear algorithm of insertion or selection sort. Looking at it can be complicated, but it is more simple than it looks. It divides the array into two different groups recursively, until it gets only two to compare, swaps if necessary. Then it pops out of the recursion, observe the cascading and then the inverted assembly in illustration, after pop it puts each split group back together using a sorted comparison.
+- 
 
+- **Questions**: No questions 
 
-- **Questions**:
 
 
 **- Tech Talk 4:**
