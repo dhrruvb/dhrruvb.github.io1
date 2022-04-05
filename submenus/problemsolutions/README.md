@@ -23,4 +23,9 @@ Week 1:
 Week 2: 
 - Calulator:
 - https://replit.com/@DhruvBhatnagar/Calculator
-- 
+
+Week 3:
+- Merge sort:
+- Bubble sort: https://replit.com/@DhruvBhatnagar/bubble-sort#Main.java
+- Selection sort: https://replit.com/@DhruvBhatnagar/selection-sort#Main.java
+- Insertion sort: https://replit.com/@DhruvBhatnagar/insertion-sort#Main.java
