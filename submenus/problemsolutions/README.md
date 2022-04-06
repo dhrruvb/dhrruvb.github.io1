@@ -2,8 +2,7 @@
 # Problem Solutions
 Week 0:
 - Problem 1
-- <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@DhruvBhatnagar/merge-sort?embed=true"></iframe>
-
+- [Problem 1](https://replit.com/@DhruvBhatnagar/TT-week-1-problem-1-1#Main.java)
 - Problem 2
 
 - https://replit.com/@DhruvBhatnagar/TT-week-1-problem-2
