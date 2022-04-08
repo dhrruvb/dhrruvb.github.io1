@@ -11,8 +11,8 @@ Sort Implementations:
   
 - Bubble Sort (The two algorithms that most beginners start their sorting career with would be bubble sort and selection sort. These sorting algorithms are not very efficient, but they provide a key insight into what sorting is and how a sorting algorithm works behind the scenes.)
 
-Sorts analysis:
-
+Sorts analysis: 
+[link to graph](https://www.rapidtables.com/tools/bar-graph.html)
 <img src="https://github.com/dhrruvb/dhrruvb.github.io1/issues/6#issue-1196844097" alt="graph with emphasis on selection sort " width="460" height="345">
 <img src="https://github.com/dhrruvb/dhrruvb.github.io1/issues/7#issue-1196844878" alt="graph with emphasis on insertion sort " width="460" height="345">
 
