@@ -12,7 +12,9 @@ Sort Implementations:
 - Bubble Sort (The two algorithms that most beginners start their sorting career with would be bubble sort and selection sort. These sorting algorithms are not very efficient, but they provide a key insight into what sorting is and how a sorting algorithm works behind the scenes.)
 
 Sorts analysis:
-![](../../../../../../var/folders/xs/srfp1cv55fv8kx0cyyhq4nbw0000gp/T/TemporaryItems/NSIRD_screencaptureui_i7oJzn/Screen Shot 2022-04-07 at 10.05.31 PM.png)
-![](../../../../../../var/folders/xs/srfp1cv55fv8kx0cyyhq4nbw0000gp/T/TemporaryItems/NSIRD_screencaptureui_NCl8Xo/Screen Shot 2022-04-07 at 10.05.55 PM.png)
+
+<img src="https://github.com/dhrruvb/dhrruvb.github.io1/issues/6#issue-1196844097" alt="graph with emphasis on selection sort " width="460" height="345">
+<img src="https://github.com/dhrruvb/dhrruvb.github.io1/issues/7#issue-1196844878" alt="graph with emphasis on insertion sort " width="460" height="345">
+
 - From this, we can see the time difference, and see the order of effiency for sorts.
 - Selection -> Bubble -> Insertion
