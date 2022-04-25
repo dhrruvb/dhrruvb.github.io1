@@ -2,30 +2,21 @@
 # Test prep plan:
 Ap Test prep plan:
 
-**-Review One unit per week, this will give ample time to review all content.**
+Study Week 1:
 
-- Week of March 7th: Review Unit 1+2 content. Do practice MC and FRQ, and place the link to the completed work here
+#Study plan: 
+- Watch the assigned college board videos (Minimum 2 a day from collegeboard, or one longer on youtube)
+- Get started on self study guide (completed)
+- complete the assigned college board quizzes (Do test corrections, for all MCs, FRQs on repl)
+- study from the study guide provided. (30 minutes a day, work on practice problems about the topic reviewed)
+- ask for help for any questions. (tutor or Mr. Mort)
 
+# MCQ results and corrections: 
+[MC test corrections + results](https://github.com/dhrruvb/dhrruvb.github.io1/wiki/MC-Test-Corrections-2015-practice-test)
+#FRQs in REPL and peer review:
+[FRQ Image](https://github.com/dhrruvb/dhrruvb.github.io1/wiki/FRQ-pictures)
 
-- Week of March 14th: Review Unit 3+4 content. Do practice MC and FRQ, and place the link to the completed work here
+Frqs in repl: [frq 1](https://replit.com/@DhruvBhatnagar/frq-1-2015#Main.java) [Frq 2](https://replit.com/@DhruvBhatnagar/frq-2-2015#Main.java) [Frq 3](https://replit.com/@DhruvBhatnagar/frq-3-2015#Main.java) [Frq 4](https://replit.com/@DhruvBhatnagar/frq-4-2015)
+#Individual Self Study guide,  sample (Links to an external site.) : [link](https://github.com/dhrruvb/dhrruvb.github.io1/wiki/Study-Guide)
 
-
-- Week of March 21th: Review Unit 5 content. Do practice MC and FRQ, and place the link to the completed work here
-
-
-- Week of March 28th: Review Unit 6 content. Do practice MC and FRQ, and place the link to the completed work here
-
-
-- Week of April 4th: Review Unit 7 content. Do practice MC and FRQ, and place the link to the completed work here
-
-
-- Week of April 11th: Review Unit 8 content. Do practice MC and FRQ, and place the link to the completed work here
-
-
-- Week of April 18th: Review Unit 9 content. Do practice MC and FRQ, and place the link to the completed work here
-
-
-- Week of April 25th: Review Unit 10 content. Do practice MC and FRQ, and place the link to the completed work here
-
-
-- Week of April 26th-May 3rd: Do Practice test throughout the week with corrections (2-3) here
+#Crossover Grade and Score: [review ticket](https://github.com/dhrruvb/dhrruvb.github.io1/issues/8)
