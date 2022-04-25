@@ -2,7 +2,7 @@
 # Test prep plan:
 
 
-# Study Week 1:
+## Study Week 1:
 
 ### Study plan: 
 - Watch the assigned college board videos (Minimum 2 a day from collegeboard, or one longer on youtube)
