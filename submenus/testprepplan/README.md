@@ -1,6 +1,20 @@
 |[Home](.)| [Review Tickets](../reviewtickets) | [Tech Talk ](../techtalknotes)| [Problem solutions ](../problemsolutions)| [Test Prep plan ](.)|[sorts ](../sorts)|
 # Test prep plan:
 
+## Study Week 2:
+
+### MCQ results and corrections:
+- [MC test corrections + results](https://github.com/dhrruvb/dhrruvb.github.io1/wiki/MCQ-test-corrections-part-2)
+
+### FRQs in REPL and peer review:
+- [FRQ Image](https://github.com/dhrruvb/dhrruvb.github.io1/wiki/frq-images-part-2)
+
+- Frqs in repl [Frq 2]() [Frq 3]() 
+
+
+### Crossover Grade and Score:
+- [review ticket]()
+
 
 ## Study Week 1:
 
