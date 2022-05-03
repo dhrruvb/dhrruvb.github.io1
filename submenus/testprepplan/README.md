@@ -9,11 +9,11 @@
 ### FRQs in REPL and peer review:
 - [FRQ Image](https://github.com/dhrruvb/dhrruvb.github.io1/wiki/frq-images-part-2)
 
-- Frqs in repl [Frq 2]() [Frq 3]() 
+- Frqs in repl [Frq 1](https://replit.com/@DhruvBhatnagar/frq-1-2020) [Frq 2](https://replit.com/@DhruvBhatnagar/frq-2-2020#Main.java) [Frq 3](https://replit.com/@DhruvBhatnagar/2020-frq-3#Main.java) [Frq 4](https://replit.com/@DhruvBhatnagar/frq-4-2020)
 
 
 ### Crossover Grade and Score:
-- [review ticket]()
+- [review ticket](https://github.com/dhrruvb/dhrruvb.github.io1/issues/9)
 
 
 ## Study Week 1:
